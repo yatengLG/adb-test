@@ -1,0 +1,107 @@
+2021-05-25 17:39:24,793 - INFO - Start working, type:farm | level:6
+2021-05-25 17:39:26,270 - INFO - 判断是否在城内, n_map:17 | n_city:18
+2021-05-25 17:39:27,453 - INFO - Click button:(155, 945, 40) | point:(161, 919) | delay:0.864
+2021-05-25 17:39:28,917 - INFO - Click button:(150, 780, 20) | point:(162, 762) | delay:0.997
+2021-05-25 17:39:33,156 - INFO - Click button:(925, 910, 50, -5) | point:(915, 911) | delay:0.898
+2021-05-25 17:39:33,984 - INFO - Click button:(1120, 580, 10) | point:(1117, 585) | delay:0.311
+2021-05-25 17:39:34,567 - INFO - Click button:(1120, 580, 10) | point:(1128, 572) | delay:0.267
+2021-05-25 17:39:35,049 - INFO - Click button:(1120, 580, 10) | point:(1122, 575) | delay:0.205
+2021-05-25 17:39:35,642 - INFO - Click button:(1120, 580, 10) | point:(1110, 578) | delay:0.327
+2021-05-25 17:39:36,183 - INFO - Click button:(1120, 580, 10) | point:(1123, 580) | delay:0.275
+2021-05-25 17:39:37,569 - INFO - Click button:(925, 700, 40) | point:(908, 717) | delay:1.119
+2021-05-25 17:39:38,777 - INFO - Click button:(1200, 515, 60) | point:(1195, 515) | delay:0.941
+2021-05-25 17:39:48,561 - INFO - Start working, type:farm | level:6
+2021-05-25 17:39:50,874 - INFO - 判断是否在城内, n_map:13 | n_city:20
+2021-05-25 17:39:52,429 - INFO - Click button:(155, 945, 40) | point:(149, 969) | delay:1.173
+2021-05-25 17:39:53,919 - INFO - Click button:(150, 780, 20) | point:(162, 790) | delay:1.021
+2021-05-25 17:39:56,446 - INFO - Click button:(925, 910, 50, -5) | point:(897, 910) | delay:1.104
+2021-05-25 17:39:57,099 - INFO - Click button:(1120, 580, 10) | point:(1115, 580) | delay:0.336
+2021-05-25 17:39:57,709 - INFO - Click button:(1120, 580, 10) | point:(1117, 574) | delay:0.287
+2021-05-25 17:39:58,392 - INFO - Click button:(1120, 580, 10) | point:(1110, 576) | delay:0.366
+2021-05-25 17:39:59,041 - INFO - Click button:(1120, 580, 10) | point:(1119, 581) | delay:0.378
+2021-05-25 17:39:59,712 - INFO - Click button:(1120, 580, 10) | point:(1126, 588) | delay:0.304
+2021-05-25 17:40:01,173 - INFO - Click button:(925, 700, 40) | point:(915, 721) | delay:1.166
+2021-05-25 17:40:02,500 - INFO - Click button:(1200, 515, 60) | point:(1204, 490) | delay:0.959
+2021-05-25 17:40:17,856 - INFO - Start working, type:farm | level:6
+2021-05-25 17:40:20,243 - INFO - 判断是否在城内, n_map:13 | n_city:20
+2021-05-25 17:40:21,437 - INFO - Click button:(155, 945, 40) | point:(194, 958) | delay:0.877
+2021-05-25 17:40:22,925 - INFO - Click button:(150, 780, 20) | point:(152, 767) | delay:0.963
+2021-05-25 17:40:25,231 - INFO - Click button:(925, 910, 50, -5) | point:(950, 905) | delay:1.045
+2021-05-25 17:40:26,027 - INFO - Click button:(1120, 580, 10) | point:(1110, 577) | delay:0.324
+2021-05-25 17:40:26,940 - INFO - Click button:(1120, 580, 10) | point:(1113, 588) | delay:0.397
+2021-05-25 17:40:27,696 - INFO - Click button:(1120, 580, 10) | point:(1129, 573) | delay:0.239
+2021-05-25 17:40:28,425 - INFO - Click button:(1120, 580, 10) | point:(1118, 587) | delay:0.212
+2021-05-25 17:40:29,261 - INFO - Click button:(1120, 580, 10) | point:(1112, 590) | delay:0.268
+2021-05-25 17:40:30,979 - INFO - Click button:(925, 700, 40) | point:(929, 698) | delay:1.181
+2021-05-25 17:40:32,405 - INFO - Click button:(1200, 515, 60) | point:(1212, 470) | delay:1.046
+2021-05-25 17:50:28,987 - INFO - Start working, type:farm | level:6
+2021-05-25 17:50:30,074 - INFO - 判断是否在城内, n_map:18 | n_city:15
+2021-05-25 17:50:31,363 - INFO - Click button:(150, 780, 20) | point:(167, 765) | delay:1.02
+2021-05-25 17:50:57,083 - INFO - Start working, type:farm | level:6
+2021-05-25 17:50:58,155 - INFO - 判断是否在城内, n_map:16 | n_city:17
+2021-05-25 17:50:59,449 - INFO - Click button:(155, 945, 40) | point:(124, 945) | delay:1.024
+2021-05-25 17:51:00,845 - INFO - Click button:(150, 780, 20) | point:(148, 796) | delay:1.03
+2021-05-25 17:51:31,959 - INFO - Start working, type:farm | level:6
+2021-05-25 17:51:34,191 - INFO - 判断是否在城内, n_map:13 | n_city:20
+2021-05-25 17:51:35,597 - INFO - Click button:(155, 945, 40) | point:(124, 972) | delay:0.988
+2021-05-25 17:51:36,847 - INFO - Click button:(150, 780, 20) | point:(143, 773) | delay:0.834
+2021-05-25 17:52:01,834 - INFO - Start working, type:farm | level:6
+2021-05-25 17:52:04,039 - INFO - 判断是否在城内, n_map:13 | n_city:20
+2021-05-25 17:52:05,455 - INFO - Click button:(155, 945, 40) | point:(128, 985) | delay:0.948
+2021-05-25 17:52:06,893 - INFO - Click button:(150, 780, 20) | point:(151, 774) | delay:1.021
+2021-05-25 17:52:28,346 - INFO - Start working, type:farm | level:6
+2021-05-25 17:52:30,527 - INFO - 判断是否在城内, n_map:13 | n_city:20
+2021-05-25 17:52:31,783 - INFO - Click button:(155, 945, 40) | point:(117, 978) | delay:0.939
+2021-05-25 17:52:33,254 - INFO - Click button:(150, 780, 20) | point:(141, 780) | delay:0.953
+2021-05-25 17:54:15,270 - INFO - Start working, type:farm | level:6
+2021-05-25 17:54:16,518 - INFO - 判断是否在城内, n_map:16 | n_city:17
+2021-05-25 17:54:17,904 - INFO - Click button:(155, 945, 40) | point:(115, 939) | delay:0.967
+2021-05-25 17:54:19,103 - INFO - Click button:(150, 780, 20) | point:(134, 794) | delay:0.933
+2021-05-25 17:55:40,392 - INFO - Start working, type:farm | level:6
+2021-05-25 17:55:41,651 - INFO - 判断是否在城内, n_map:16 | n_city:17
+2021-05-25 17:55:42,777 - INFO - Click button:(155, 945, 40) | point:(176, 960) | delay:0.841
+2021-05-25 17:55:44,164 - INFO - Click button:(150, 780, 20) | point:(162, 796) | delay:0.909
+2021-05-25 17:56:19,907 - INFO - Start working, type:farm | level:6
+2021-05-25 17:56:22,188 - INFO - 判断是否在城内, n_map:13 | n_city:20
+2021-05-25 17:56:23,437 - INFO - Click button:(155, 945, 40) | point:(186, 939) | delay:0.927
+2021-05-25 17:56:24,988 - INFO - Click button:(150, 780, 20) | point:(140, 798) | delay:1.181
+2021-05-25 17:56:26,581 - INFO - Click button:(1120, 580, 10) | point:(1115, 589) | delay:0.256
+2021-05-25 17:56:27,228 - INFO - Click button:(1120, 580, 10) | point:(1129, 580) | delay:0.38
+2021-05-25 17:56:28,001 - INFO - Click button:(1120, 580, 10) | point:(1122, 584) | delay:0.207
+2021-05-25 17:56:28,697 - INFO - Click button:(1120, 580, 10) | point:(1117, 584) | delay:0.276
+2021-05-25 17:56:29,273 - INFO - Click button:(1120, 580, 10) | point:(1122, 576) | delay:0.301
+2021-05-25 17:56:30,678 - INFO - Click button:(925, 700, 40) | point:(956, 681) | delay:1.069
+2021-05-25 17:56:32,077 - INFO - Click button:(1200, 515, 60) | point:(1213, 523) | delay:1.032
+2021-05-25 17:56:43,495 - INFO - Start working, type:farm | level:6
+2021-05-25 17:56:45,791 - INFO - 判断是否在城内, n_map:13 | n_city:20
+2021-05-25 17:56:46,887 - INFO - Click button:(155, 945, 40) | point:(158, 984) | delay:0.814
+2021-05-25 17:56:48,117 - INFO - Click button:(150, 780, 20) | point:(143, 776) | delay:0.954
+2021-05-25 17:56:50,387 - INFO - Click button:(925, 910, 50, -5) | point:(886, 872) | delay:0.889
+2021-05-25 17:56:51,008 - INFO - Click button:(1120, 580, 10) | point:(1111, 571) | delay:0.298
+2021-05-25 17:56:51,614 - INFO - Click button:(1120, 580, 10) | point:(1128, 590) | delay:0.316
+2021-05-25 17:56:52,284 - INFO - Click button:(1120, 580, 10) | point:(1118, 590) | delay:0.248
+2021-05-25 17:56:53,105 - INFO - Click button:(1120, 580, 10) | point:(1119, 571) | delay:0.29
+2021-05-25 17:56:53,969 - INFO - Click button:(1120, 580, 10) | point:(1113, 590) | delay:0.346
+2021-05-25 17:56:55,405 - INFO - Click button:(925, 700, 40) | point:(899, 723) | delay:1.17
+2021-05-25 17:56:56,677 - INFO - Click button:(1200, 515, 60) | point:(1187, 575) | delay:0.993
+2021-05-25 17:58:06,670 - INFO - Start working, type:farm | level:6
+2021-05-25 17:58:08,935 - INFO - 判断是否在城内, n_map:13 | n_city:20
+2021-05-25 17:58:10,228 - INFO - Click button:(155, 945, 40) | point:(125, 972) | delay:0.823
+2021-05-25 17:58:11,781 - INFO - Click button:(150, 780, 20) | point:(162, 766) | delay:1.183
+2021-05-25 17:58:12,831 - INFO - Cal similar with pics/farm_level_685-405-1165-765.png : 0.9844
+2021-05-25 17:58:13,749 - INFO - Click button:(1120, 580, 10) | point:(1111, 577) | delay:0.384
+2021-05-25 17:58:14,449 - INFO - Click button:(1120, 580, 10) | point:(1114, 571) | delay:0.22
+2021-05-25 17:58:14,955 - INFO - Click button:(1120, 580, 10) | point:(1128, 577) | delay:0.24
+2021-05-25 17:58:15,522 - INFO - Click button:(1120, 580, 10) | point:(1111, 581) | delay:0.23
+2021-05-25 17:58:16,117 - INFO - Click button:(1120, 580, 10) | point:(1130, 572) | delay:0.279
+2021-05-25 17:58:17,650 - INFO - Click button:(925, 700, 40) | point:(894, 730) | delay:1.015
+2021-05-25 17:58:18,857 - INFO - Click button:(1200, 515, 60) | point:(1255, 492) | delay:0.832
+2021-05-25 17:58:55,639 - INFO - Start working, type:farm | level:6
+2021-05-25 17:58:56,954 - INFO - 判断是否在城内, n_map:18 | n_city:15
+2021-05-25 18:00:11,037 - INFO - Start working, type:farm | level:6
+2021-05-25 18:00:11,977 - INFO - 判断是否在城内, n_map:16 | n_city:17
+2021-05-25 18:00:13,424 - INFO - Click button:(155, 945, 40) | point:(135, 971) | delay:1.03
+2021-05-25 18:00:14,831 - INFO - Click button:(150, 780, 20) | point:(166, 788) | delay:0.929
+2021-05-25 18:00:15,687 - INFO - Cal similar with pics/farm_level_685-405-1165-765.png : 0.9844
+2021-05-25 18:00:17,355 - INFO - Click button:(925, 700, 40) | point:(887, 661) | delay:1.199
+2021-05-25 18:00:18,661 - INFO - Click button:(1200, 515, 60) | point:(1232, 502) | delay:0.806
