@@ -1,0 +1,180 @@
+2021-05-31 17:43:54,909 - INFO - Start working, type:farm | level:6
+2021-05-31 17:43:55,185 - INFO - 启动应用
+2021-05-31 17:44:07,710 - INFO - 判断是否在城内, n_map:16 | n_city:17
+2021-05-31 17:44:09,419 - INFO - Click button:(155, 945, 40) | point:(162, 955) | delay:0.825
+2021-05-31 17:44:10,879 - INFO - Click button:(150, 780, 20) | point:(153, 780) | delay:0.988
+2021-05-31 17:44:12,054 - INFO - Cal similar with pics/farm_level_685-405-1165-765.png : 0.7500
+2021-05-31 17:44:13,261 - INFO - Click button:(925, 910, 50, -5) | point:(902, 914) | delay:0.83
+2021-05-31 17:44:14,737 - INFO - Click button:(925, 700, 40) | point:(931, 670) | delay:1.159
+2021-05-31 17:44:15,734 - INFO - Cal similar with pics/farm_level_685-405-1165-765.png : 0.9531
+2021-05-31 17:44:15,734 - ERROR - 没有资源或其他情况，导致点击搜索后没有跳转
+2021-05-31 17:44:15,734 - INFO - Start working, type:wood | level:6
+2021-05-31 17:44:15,861 - INFO - 尝试打开应用，但应用已启动
+2021-05-31 17:44:16,747 - INFO - 判断是否在城内, n_map:16 | n_city:17
+2021-05-31 17:44:17,948 - INFO - Click button:(155, 945, 40) | point:(127, 935) | delay:0.934
+2021-05-31 17:44:19,251 - INFO - Click button:(150, 780, 20) | point:(136, 778) | delay:0.836
+2021-05-31 17:44:20,243 - INFO - Cal similar with pics/wood_level_960-405-1440-765.png : 0.7500
+2021-05-31 17:44:21,367 - INFO - Click button:(1200, 910, 50, 0) | point:(1242, 872) | delay:0.857
+2021-05-31 17:44:22,935 - INFO - Click button:(1200, 700, 40) | point:(1180, 700) | delay:1.098
+2021-05-31 17:44:24,111 - INFO - Cal similar with pics/wood_level_960-405-1440-765.png : 0.9375
+2021-05-31 17:44:27,024 - INFO - Click button:(1200, 515, 60) | point:(1162, 466) | delay:1.046
+2021-05-31 17:44:27,921 - INFO - Cal similar with pics/采集按钮_1605-650-1695-740.png : 0.9219
+2021-05-31 17:44:27,921 - ERROR - 点击资源后，未出现 [采集按钮]
+2021-05-31 17:44:27,921 - INFO - Start working, type:stone | level:6
+2021-05-31 17:44:28,002 - INFO - 尝试打开应用，但应用已启动
+2021-05-31 17:44:28,894 - INFO - 判断是否在城内, n_map:16 | n_city:17
+2021-05-31 17:44:30,234 - INFO - Click button:(155, 945, 40) | point:(162, 924) | delay:1.072
+2021-05-31 17:44:31,706 - INFO - Click button:(150, 780, 20) | point:(158, 787) | delay:0.95
+2021-05-31 17:44:32,674 - INFO - Cal similar with pics/stone_level_1235-405-1715-765.png : 0.8125
+2021-05-31 17:44:33,911 - INFO - Click button:(1475, 910, 50, 0) | point:(1429, 948) | delay:0.92
+2021-05-31 17:44:35,549 - INFO - Click button:(1475, 700, 40) | point:(1466, 674) | delay:1.171
+2021-05-31 17:44:36,575 - INFO - Cal similar with pics/stone_level_1235-405-1715-765.png : 0.8906
+2021-05-31 17:44:39,295 - INFO - Click button:(1200, 515, 60) | point:(1230, 457) | delay:0.84
+2021-05-31 17:44:40,387 - INFO - Cal similar with pics/采集按钮_1605-650-1695-740.png : 1.0000
+2021-05-31 17:44:41,680 - INFO - Click button:(1650, 695, 45) | point:(1624, 713) | delay:1.026
+2021-05-31 17:44:43,082 - INFO - Cal similar with pics/创建部队按钮_1905-170-1985-250.png : 1.0000
+2021-05-31 17:44:44,645 - INFO - Click button:(1945, 210, 40) | point:(1984, 198) | delay:1.097
+2021-05-31 17:44:45,482 - INFO - Cal similar with pics/行军按钮_1575-860-1665-950.png : 1.0000
+2021-05-31 17:44:46,844 - INFO - Click button:(1620, 905, 45) | point:(1646, 947) | delay:1.094
+2021-05-31 17:44:46,844 - INFO - Start working, type:stone | level:6
+2021-05-31 17:44:46,943 - INFO - 尝试打开应用，但应用已启动
+2021-05-31 17:44:47,934 - INFO - 判断是否在城内, n_map:18 | n_city:13
+2021-05-31 17:44:49,066 - INFO - Click button:(150, 780, 20) | point:(147, 780) | delay:0.865
+2021-05-31 17:44:50,113 - INFO - Cal similar with pics/stone_level_1235-405-1715-765.png : 1.0000
+2021-05-31 17:44:51,642 - INFO - Click button:(1475, 700, 40) | point:(1490, 728) | delay:1.061
+2021-05-31 17:44:52,759 - INFO - Cal similar with pics/stone_level_1235-405-1715-765.png : 0.8906
+2021-05-31 17:44:55,859 - INFO - Click button:(1200, 515, 60) | point:(1233, 569) | delay:0.85
+2021-05-31 17:44:56,820 - INFO - Cal similar with pics/采集按钮_1605-650-1695-740.png : 1.0000
+2021-05-31 17:44:57,891 - INFO - Click button:(1650, 695, 45) | point:(1622, 672) | delay:0.804
+2021-05-31 17:44:59,235 - INFO - Cal similar with pics/创建部队按钮_1905-170-1985-250.png : 1.0000
+2021-05-31 17:45:00,952 - INFO - Click button:(1945, 210, 40) | point:(1937, 216) | delay:1.199
+2021-05-31 17:45:01,890 - INFO - Cal similar with pics/行军按钮_1575-860-1665-950.png : 1.0000
+2021-05-31 17:45:03,310 - INFO - Click button:(1620, 905, 45) | point:(1585, 874) | delay:1.153
+2021-05-31 17:45:03,310 - INFO - Start working, type:stone | level:6
+2021-05-31 17:45:03,434 - INFO - 尝试打开应用，但应用已启动
+2021-05-31 17:45:04,605 - INFO - 判断是否在城内, n_map:18 | n_city:13
+2021-05-31 17:45:05,824 - INFO - Click button:(150, 780, 20) | point:(152, 760) | delay:0.952
+2021-05-31 17:45:06,763 - INFO - Cal similar with pics/stone_level_1235-405-1715-765.png : 1.0000
+2021-05-31 17:45:08,387 - INFO - Click button:(1475, 700, 40) | point:(1467, 699) | delay:1.157
+2021-05-31 17:45:09,295 - INFO - Cal similar with pics/stone_level_1235-405-1715-765.png : 0.8906
+2021-05-31 17:45:12,596 - INFO - Click button:(1200, 515, 60) | point:(1204, 546) | delay:1.077
+2021-05-31 17:45:13,566 - INFO - Cal similar with pics/采集按钮_1605-650-1695-740.png : 1.0000
+2021-05-31 17:45:14,788 - INFO - Click button:(1650, 695, 45) | point:(1648, 686) | delay:0.955
+2021-05-31 17:45:16,150 - INFO - Cal similar with pics/创建部队按钮_1905-170-1985-250.png : 1.0000
+2021-05-31 17:45:17,603 - INFO - Click button:(1945, 210, 40) | point:(1977, 218) | delay:1.185
+2021-05-31 17:45:18,841 - INFO - Cal similar with pics/行军按钮_1575-860-1665-950.png : 1.0000
+2021-05-31 17:45:20,416 - INFO - Click button:(1620, 905, 45) | point:(1577, 948) | delay:0.958
+2021-05-31 17:45:20,417 - INFO - Start working, type:stone | level:6
+2021-05-31 17:45:20,511 - INFO - 尝试打开应用，但应用已启动
+2021-05-31 17:45:21,472 - INFO - 判断是否在城内, n_map:18 | n_city:13
+2021-05-31 17:45:22,752 - INFO - Click button:(150, 780, 20) | point:(139, 790) | delay:0.851
+2021-05-31 17:45:23,860 - INFO - Cal similar with pics/stone_level_1235-405-1715-765.png : 1.0000
+2021-05-31 17:45:25,309 - INFO - Click button:(1475, 700, 40) | point:(1469, 665) | delay:1.066
+2021-05-31 17:45:26,478 - INFO - Cal similar with pics/stone_level_1235-405-1715-765.png : 0.8906
+2021-05-31 17:45:29,691 - INFO - Click button:(1200, 515, 60) | point:(1237, 462) | delay:1.187
+2021-05-31 17:45:30,891 - INFO - Cal similar with pics/采集按钮_1605-650-1695-740.png : 1.0000
+2021-05-31 17:45:32,026 - INFO - Click button:(1650, 695, 45) | point:(1612, 699) | delay:0.868
+2021-05-31 17:45:33,180 - INFO - Cal similar with pics/创建部队按钮_1905-170-1985-250.png : 0.9688
+2021-05-31 17:45:34,484 - INFO - Click button:(1945, 210, 40) | point:(1969, 174) | delay:1.038
+2021-05-31 17:45:35,794 - INFO - Cal similar with pics/行军按钮_1575-860-1665-950.png : 0.7656
+2021-05-31 17:45:35,794 - WARNING - 点击创建部队后，未出现 [行军按钮]
+2021-05-31 17:45:35,795 - INFO - Start working, type:stone | level:6
+2021-05-31 17:45:35,898 - INFO - 尝试打开应用，但应用已启动
+2021-05-31 17:45:37,051 - INFO - 判断是否在城内, n_map:25 | n_city:24
+2021-05-31 17:45:38,458 - INFO - Click button:(150, 780, 20) | point:(165, 792) | delay:1.14
+2021-05-31 17:45:39,627 - INFO - Cal similar with pics/stone_level_1235-405-1715-765.png : 0.8906
+2021-05-31 17:45:40,674 - INFO - Click button:(1475, 910, 50, 0) | point:(1491, 911) | delay:0.817
+2021-05-31 17:45:42,175 - INFO - Click button:(1475, 700, 40) | point:(1513, 723) | delay:1.182
+2021-05-31 17:45:43,318 - INFO - Cal similar with pics/stone_level_1235-405-1715-765.png : 0.8906
+2021-05-31 17:45:46,152 - INFO - Click button:(1200, 515, 60) | point:(1174, 551) | delay:0.877
+2021-05-31 17:45:47,343 - INFO - Cal similar with pics/采集按钮_1605-650-1695-740.png : 1.0000
+2021-05-31 17:45:49,060 - INFO - Click button:(1650, 695, 45) | point:(1673, 686) | delay:1.199
+2021-05-31 17:45:50,314 - INFO - Cal similar with pics/创建部队按钮_1905-170-1985-250.png : 0.9688
+2021-05-31 17:45:51,596 - INFO - Click button:(1945, 210, 40) | point:(1931, 236) | delay:1.015
+2021-05-31 17:45:52,884 - INFO - Cal similar with pics/行军按钮_1575-860-1665-950.png : 0.9375
+2021-05-31 17:45:52,884 - WARNING - 点击创建部队后，未出现 [行军按钮]
+2021-05-31 17:45:52,884 - INFO - Start working, type:stone | level:6
+2021-05-31 17:45:52,958 - INFO - 尝试打开应用，但应用已启动
+2021-05-31 17:45:54,130 - INFO - 判断是否在城内, n_map:18 | n_city:13
+2021-05-31 17:45:55,644 - INFO - Click button:(150, 780, 20) | point:(169, 799) | delay:0.981
+2021-05-31 17:45:56,637 - INFO - Cal similar with pics/stone_level_1235-405-1715-765.png : 1.0000
+2021-05-31 17:45:58,182 - INFO - Click button:(1475, 700, 40) | point:(1473, 707) | delay:1.178
+2021-05-31 17:45:59,350 - INFO - Cal similar with pics/stone_level_1235-405-1715-765.png : 0.8906
+2021-05-31 17:46:02,453 - INFO - Click button:(1200, 515, 60) | point:(1192, 535) | delay:1.019
+2021-05-31 17:46:03,749 - INFO - Cal similar with pics/采集按钮_1605-650-1695-740.png : 1.0000
+2021-05-31 17:46:05,212 - INFO - Click button:(1650, 695, 45) | point:(1607, 660) | delay:1.046
+2021-05-31 17:46:06,510 - INFO - Cal similar with pics/创建部队按钮_1905-170-1985-250.png : 0.9688
+2021-05-31 17:46:07,892 - INFO - Click button:(1945, 210, 40) | point:(1942, 172) | delay:0.965
+2021-05-31 17:46:09,056 - INFO - Cal similar with pics/行军按钮_1575-860-1665-950.png : 0.7656
+2021-05-31 17:46:09,057 - WARNING - 点击创建部队后，未出现 [行军按钮]
+2021-05-31 17:46:09,057 - INFO - Start working, type:stone | level:6
+2021-05-31 17:46:09,128 - INFO - 尝试打开应用，但应用已启动
+2021-05-31 17:46:10,381 - INFO - 判断是否在城内, n_map:25 | n_city:24
+2021-05-31 17:46:11,866 - INFO - Click button:(150, 780, 20) | point:(135, 800) | delay:0.967
+2021-05-31 17:46:12,910 - INFO - Cal similar with pics/stone_level_1235-405-1715-765.png : 0.8906
+2021-05-31 17:46:14,203 - INFO - Click button:(1475, 910, 50, 0) | point:(1488, 924) | delay:1.026
+2021-05-31 17:46:15,829 - INFO - Click button:(1475, 700, 40) | point:(1471, 690) | delay:1.157
+2021-05-31 17:46:16,923 - INFO - Cal similar with pics/stone_level_1235-405-1715-765.png : 0.8906
+2021-05-31 17:46:20,094 - INFO - Click button:(1200, 515, 60) | point:(1151, 547) | delay:1.19
+2021-05-31 17:46:21,201 - INFO - Cal similar with pics/采集按钮_1605-650-1695-740.png : 1.0000
+2021-05-31 17:46:22,523 - INFO - Click button:(1650, 695, 45) | point:(1686, 735) | delay:0.854
+2021-05-31 17:46:23,873 - INFO - Cal similar with pics/创建部队按钮_1905-170-1985-250.png : 0.9688
+2021-05-31 17:46:25,078 - INFO - Click button:(1945, 210, 40) | point:(1908, 200) | delay:0.838
+2021-05-31 17:46:26,179 - INFO - Cal similar with pics/行军按钮_1575-860-1665-950.png : 0.7656
+2021-05-31 17:46:26,180 - WARNING - 点击创建部队后，未出现 [行军按钮]
+2021-05-31 17:46:26,180 - INFO - Start working, type:stone | level:6
+2021-05-31 17:46:26,251 - INFO - 尝试打开应用，但应用已启动
+2021-05-31 17:46:27,547 - INFO - 判断是否在城内, n_map:29 | n_city:24
+2021-05-31 17:46:29,096 - INFO - Click button:(150, 780, 20) | point:(131, 776) | delay:1.182
+2021-05-31 17:46:30,241 - INFO - Cal similar with pics/stone_level_1235-405-1715-765.png : 0.8906
+2021-05-31 17:46:31,818 - INFO - Click button:(1475, 910, 50, 0) | point:(1435, 935) | delay:1.16
+2021-05-31 17:46:33,353 - INFO - Click button:(1475, 700, 40) | point:(1470, 703) | delay:1.068
+2021-05-31 17:46:34,415 - INFO - Cal similar with pics/stone_level_1235-405-1715-765.png : 0.8906
+2021-05-31 17:58:49,180 - INFO - Start working, type:farm | level:6
+2021-05-31 17:58:49,766 - INFO - 启动应用
+2021-05-31 17:59:01,904 - INFO - 判断是否在城内, n_map:25 | n_city:24
+2021-05-31 17:59:03,229 - INFO - Click button:(150, 780, 20) | point:(160, 785) | delay:0.808
+2021-05-31 17:59:05,397 - INFO - Cal similar with pics/farm_level_685-405-1165-765.png : 0.7656
+2021-05-31 17:59:07,108 - INFO - Click button:(925, 910, 50, -5) | point:(931, 887) | delay:1.183
+2021-05-31 17:59:08,556 - INFO - Click button:(925, 700, 40) | point:(958, 691) | delay:1.131
+2021-05-31 17:59:10,672 - INFO - Cal similar with pics/farm_level_685-405-1165-765.png : 0.7344
+2021-05-31 17:59:13,549 - INFO - Click button:(1200, 515, 60) | point:(1207, 506) | delay:0.836
+2021-05-31 17:59:15,615 - INFO - Cal similar with pics/采集按钮_1605-650-1695-740.png : 0.6719
+2021-05-31 17:59:15,615 - ERROR - 点击资源后，未出现 [采集按钮]
+2021-05-31 17:59:15,615 - INFO - Start working, type:wood | level:6
+2021-05-31 17:59:15,721 - INFO - 尝试打开应用，但应用已启动
+2021-05-31 17:59:17,745 - INFO - 判断是否在城内, n_map:13 | n_city:20
+2021-05-31 17:59:19,403 - INFO - Click button:(155, 945, 40) | point:(182, 971) | delay:1.19
+2021-05-31 17:59:20,650 - INFO - Click button:(150, 780, 20) | point:(158, 761) | delay:0.83
+2021-05-31 17:59:22,665 - INFO - Cal similar with pics/wood_level_960-405-1440-765.png : 0.6719
+2021-05-31 17:59:23,956 - INFO - Click button:(1200, 910, 50, 0) | point:(1166, 940) | delay:1.074
+2021-05-31 17:59:25,544 - INFO - Click button:(1200, 700, 40) | point:(1236, 723) | delay:1.122
+2021-05-31 17:59:27,611 - INFO - Cal similar with pics/wood_level_960-405-1440-765.png : 0.6719
+2021-05-31 18:06:25,765 - INFO - Start working, type:farm | level:6
+2021-05-31 18:06:25,883 - INFO - 尝试打开应用，但应用已启动
+2021-05-31 18:06:28,096 - INFO - 判断是否在城内, n_map:11 | n_city:20
+2021-05-31 18:06:29,813 - INFO - Click button:(155, 945, 40) | point:(185, 952) | delay:1.187
+2021-05-31 18:06:31,144 - INFO - Click button:(150, 780, 20) | point:(136, 794) | delay:1.014
+2021-05-31 18:06:33,180 - INFO - Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1200-440-1710-620.png : 0.9062
+2021-05-31 18:06:35,196 - INFO - Cal similar with pics/farm_level_685-405-1165-765.png : 0.7812
+2021-05-31 18:06:36,535 - INFO - Click button:(925, 910, 50, -5) | point:(889, 889) | delay:0.972
+2021-05-31 18:06:37,954 - INFO - Click button:(925, 700, 40) | point:(891, 722) | delay:1.053
+2021-05-31 18:06:44,769 - INFO - Start working, type:farm | level:6
+2021-05-31 18:06:44,894 - INFO - 尝试打开应用，但应用已启动
+2021-05-31 18:06:47,067 - INFO - 判断是否在城内, n_map:11 | n_city:20
+2021-05-31 18:06:48,254 - INFO - Click button:(155, 945, 40) | point:(168, 917) | delay:0.92
+2021-05-31 18:06:49,528 - INFO - Click button:(150, 780, 20) | point:(154, 788) | delay:0.959
+2021-05-31 18:06:51,643 - INFO - Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1200-440-1710-620.png : 0.9219
+2021-05-31 18:08:02,734 - INFO - Start working, type:farm | level:6
+2021-05-31 18:08:02,852 - INFO - 尝试打开应用，但应用已启动
+2021-05-31 18:08:05,018 - INFO - 判断是否在城内, n_map:11 | n_city:20
+2021-05-31 18:08:06,446 - INFO - Click button:(155, 945, 40) | point:(183, 985) | delay:1.011
+2021-05-31 18:08:07,915 - INFO - Click button:(150, 780, 20) | point:(170, 799) | delay:1.102
+2021-05-31 18:08:09,978 - INFO - Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 1.0000
+2021-05-31 18:09:41,756 - INFO - Start working, type:farm | level:6
+2021-05-31 18:09:41,869 - INFO - 尝试打开应用，但应用已启动
+2021-05-31 18:09:44,083 - INFO - 判断是否在城内, n_map:11 | n_city:20
+2021-05-31 18:09:45,239 - INFO - Click button:(155, 945, 40) | point:(193, 952) | delay:0.889
+2021-05-31 18:09:46,543 - INFO - Click button:(150, 780, 20) | point:(169, 783) | delay:0.875
+2021-05-31 18:09:48,669 - INFO - Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 1.0000
+2021-05-31 18:09:48,669 - ERROR - 挂机检查
