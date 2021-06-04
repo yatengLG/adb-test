@@ -1,0 +1,272 @@
+2021-06-04 15:47:43,776 - INFO - jjypof7xcqzpg6pn | Start working, type:wood | level:6
+2021-06-04 15:47:44,026 - INFO - jjypof7xcqzpg6pn | 启动应用
+2021-06-04 15:47:56,218 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.8438
+2021-06-04 15:47:58,375 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:13 | n_city:20
+2021-06-04 15:47:59,881 - INFO - jjypof7xcqzpg6pn | Click button:(155, 945, 40) | point:(145, 923) | delay:1.088
+2021-06-04 15:48:01,305 - INFO - jjypof7xcqzpg6pn | Click button:(150, 780, 20) | point:(142, 773) | delay:1.105
+2021-06-04 15:48:03,429 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/wood_level_960-405-1440-765.png : 0.7031
+2021-06-04 15:48:04,956 - INFO - jjypof7xcqzpg6pn | Click button:(1200, 910, 50, 0) | point:(1202, 866) | delay:1.108
+2021-06-04 15:48:06,576 - INFO - jjypof7xcqzpg6pn | Click button:(1200, 700, 40) | point:(1161, 692) | delay:1.198
+2021-06-04 15:48:08,757 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/wood_level_960-405-1440-765.png : 0.6562
+2021-06-04 15:56:15,418 - INFO - jjypof7xcqzpg6pn | Start working, type:wood | level:6
+2021-06-04 15:56:15,657 - INFO - jjypof7xcqzpg6pn | 启动应用
+2021-06-04 16:15:03,505 - INFO - jjypof7xcqzpg6pn | Start working, type:wood | level:6
+2021-06-04 16:15:03,601 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 16:15:22,074 - INFO - jjypof7xcqzpg6pn | Start working, type:wood | level:6
+2021-06-04 16:15:22,199 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 16:16:15,596 - INFO - jjypof7xcqzpg6pn | Start working, type:wood | level:6
+2021-06-04 16:16:15,722 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 16:16:32,542 - INFO - jjypof7xcqzpg6pn | Start working, type:wood | level:6
+2021-06-04 16:16:32,670 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 16:17:09,145 - INFO - jjypof7xcqzpg6pn | Start working, type:wood | level:6
+2021-06-04 16:17:09,376 - INFO - jjypof7xcqzpg6pn | 启动应用
+2021-06-04 16:17:21,401 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.7500
+2021-06-04 16:17:23,664 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:11 | n_city:20
+2021-06-04 16:17:25,240 - INFO - jjypof7xcqzpg6pn | Click button:(155, 945, 40) | point:(144, 943) | delay:0.907
+2021-06-04 16:17:26,535 - INFO - jjypof7xcqzpg6pn | Click button:(150, 780, 20) | point:(159, 787) | delay:0.877
+2021-06-04 16:17:27,372 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/wood_level_960-405-1440-765.png : 0.8125
+2021-06-04 16:17:28,440 - INFO - jjypof7xcqzpg6pn | Click button:(1200, 910, 50, 0) | point:(1203, 868) | delay:0.8
+2021-06-04 16:17:29,867 - INFO - jjypof7xcqzpg6pn | Click button:(1200, 700, 40) | point:(1215, 726) | delay:1.008
+2021-06-04 16:17:30,854 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/wood_level_960-405-1440-765.png : 0.9375
+2021-06-04 16:17:34,053 - INFO - jjypof7xcqzpg6pn | Click button:(1200, 515, 60) | point:(1149, 554) | delay:0.829
+2021-06-04 16:17:34,937 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/采集按钮_1605-650-1695-740.png : 0.9219
+2021-06-04 16:17:34,937 - WARNING - jjypof7xcqzpg6pn | 点击资源后，未出现 [采集按钮]
+2021-06-04 16:17:34,938 - INFO - jjypof7xcqzpg6pn | Start working, type:stone | level:6
+2021-06-04 16:17:35,006 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 16:17:35,840 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.7969
+2021-06-04 16:17:36,990 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:16 | n_city:17
+2021-06-04 16:17:38,300 - INFO - jjypof7xcqzpg6pn | Click button:(155, 945, 40) | point:(138, 915) | delay:0.841
+2021-06-04 16:17:39,753 - INFO - jjypof7xcqzpg6pn | Click button:(150, 780, 20) | point:(152, 800) | delay:1.186
+2021-06-04 16:17:40,839 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/stone_level_1235-405-1715-765.png : 0.8125
+2021-06-04 16:17:42,259 - INFO - jjypof7xcqzpg6pn | Click button:(1475, 910, 50, 0) | point:(1451, 871) | delay:0.901
+2021-06-04 16:17:43,727 - INFO - jjypof7xcqzpg6pn | Click button:(1475, 700, 40) | point:(1441, 674) | delay:1.15
+2021-06-04 16:17:44,813 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/stone_level_1235-405-1715-765.png : 0.8438
+2021-06-04 16:17:47,615 - INFO - jjypof7xcqzpg6pn | Click button:(1200, 515, 60) | point:(1256, 463) | delay:0.808
+2021-06-04 16:17:48,751 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/采集按钮_1605-650-1695-740.png : 1.0000
+2021-06-04 16:17:49,945 - INFO - jjypof7xcqzpg6pn | Click button:(1650, 695, 45) | point:(1612, 704) | delay:0.803
+2021-06-04 16:17:51,184 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/创建部队按钮_1905-170-1985-250.png : 1.0000
+2021-06-04 16:17:52,594 - INFO - jjypof7xcqzpg6pn | Click button:(1945, 210, 40) | point:(1929, 172) | delay:1.141
+2021-06-04 16:17:53,622 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/行军按钮_1575-860-1665-950.png : 1.0000
+2021-06-04 16:17:55,143 - INFO - jjypof7xcqzpg6pn | Click button:(1620, 905, 45) | point:(1662, 886) | delay:1.003
+2021-06-04 16:17:55,143 - INFO - jjypof7xcqzpg6pn | Start working, type:stone | level:6
+2021-06-04 16:17:55,211 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 16:17:56,095 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.8594
+2021-06-04 16:17:57,279 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:18 | n_city:13
+2021-06-04 16:17:58,617 - INFO - jjypof7xcqzpg6pn | Click button:(150, 780, 20) | point:(159, 795) | delay:0.97
+2021-06-04 16:17:59,605 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/stone_level_1235-405-1715-765.png : 1.0000
+2021-06-04 16:18:01,148 - INFO - jjypof7xcqzpg6pn | Click button:(1475, 700, 40) | point:(1492, 738) | delay:1.074
+2021-06-04 16:18:02,236 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/stone_level_1235-405-1715-765.png : 0.8438
+2021-06-04 16:18:05,537 - INFO - jjypof7xcqzpg6pn | Click button:(1200, 515, 60) | point:(1256, 473) | delay:1.038
+2021-06-04 16:45:59,533 - INFO - jjypof7xcqzpg6pn | Start working, type:wood | level:6
+2021-06-04 16:45:59,730 - INFO - jjypof7xcqzpg6pn | 启动应用
+2021-06-04 16:46:11,883 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.7500
+2021-06-04 16:46:14,044 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:13 | n_city:20
+2021-06-04 16:46:15,706 - INFO - jjypof7xcqzpg6pn | Click button:(155, 945, 40) | point:(189, 950) | delay:1.042
+2021-06-04 16:46:17,090 - INFO - jjypof7xcqzpg6pn | Click button:(150, 780, 20) | point:(148, 760) | delay:0.955
+2021-06-04 16:46:18,040 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/wood_level_960-405-1440-765.png : 0.8125
+2021-06-04 16:46:19,191 - INFO - jjypof7xcqzpg6pn | Click button:(1200, 910, 50, 0) | point:(1188, 923) | delay:0.882
+2021-06-04 16:46:20,747 - INFO - jjypof7xcqzpg6pn | Click button:(1200, 700, 40) | point:(1180, 685) | delay:1.087
+2021-06-04 16:46:21,580 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/wood_level_960-405-1440-765.png : 0.8906
+2021-06-04 16:46:24,653 - INFO - jjypof7xcqzpg6pn | Click button:(1200, 515, 60) | point:(1233, 463) | delay:0.861
+2021-06-04 16:46:25,600 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/采集按钮_1605-650-1695-740.png : 1.0000
+2021-06-04 16:46:26,890 - INFO - jjypof7xcqzpg6pn | Click button:(1650, 695, 45) | point:(1686, 691) | delay:1.022
+2021-06-04 16:46:28,085 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/创建部队按钮_1905-170-1985-250.png : 1.0000
+2021-06-04 16:46:29,585 - INFO - jjypof7xcqzpg6pn | Click button:(1945, 210, 40) | point:(1918, 210) | delay:1.074
+2021-06-04 16:46:30,464 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/行军按钮_1575-860-1665-950.png : 1.0000
+2021-06-04 16:46:31,755 - INFO - jjypof7xcqzpg6pn | Click button:(1620, 905, 45) | point:(1592, 949) | delay:0.965
+2021-06-04 16:46:31,756 - INFO - jjypof7xcqzpg6pn | Start working, type:wood | level:6
+2021-06-04 16:46:31,837 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 16:46:32,926 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.7656
+2021-06-04 16:46:33,712 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:18 | n_city:15
+2021-06-04 16:46:35,179 - INFO - jjypof7xcqzpg6pn | Click button:(150, 780, 20) | point:(163, 783) | delay:1.198
+2021-06-04 16:46:36,224 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/wood_level_960-405-1440-765.png : 1.0000
+2021-06-04 16:46:37,852 - INFO - jjypof7xcqzpg6pn | Click button:(1200, 700, 40) | point:(1204, 697) | delay:1.146
+2021-06-04 16:53:10,669 - INFO - jjypof7xcqzpg6pn | Start working, type:wood | level:6
+2021-06-04 16:53:10,922 - INFO - jjypof7xcqzpg6pn | 启动应用
+2021-06-04 16:53:18,374 - INFO - jjypof7xcqzpg6pn | Start working, type:wood | level:6
+2021-06-04 16:53:18,495 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 16:53:32,687 - INFO - jjypof7xcqzpg6pn | Start working, type:wood | level:6
+2021-06-04 16:53:32,811 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 16:53:34,912 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.7656
+2021-06-04 16:53:37,103 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:13 | n_city:20
+2021-06-04 16:53:39,138 - INFO - jjypof7xcqzpg6pn | Click button:(155, 945, 40) | point:(140, 929) | delay:1.164
+2021-06-04 16:54:37,322 - INFO - jjypof7xcqzpg6pn | Start working, type:wood | level:6
+2021-06-04 16:54:37,432 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 16:54:38,315 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.8750
+2021-06-04 16:54:39,398 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:16 | n_city:17
+2021-06-04 16:54:40,803 - INFO - jjypof7xcqzpg6pn | Click button:(155, 945, 40) | point:(165, 969) | delay:0.886
+2021-06-04 16:54:49,631 - INFO - jjypof7xcqzpg6pn | Start working, type:wood | level:6
+2021-06-04 16:54:49,747 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 16:54:50,881 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.8750
+2021-06-04 16:54:51,964 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:16 | n_city:17
+2021-06-04 16:54:53,629 - INFO - jjypof7xcqzpg6pn | Click button:(155, 945, 40) | point:(158, 941) | delay:1.196
+2021-06-04 16:54:55,039 - INFO - jjypof7xcqzpg6pn | Click button:(150, 780, 20) | point:(134, 786) | delay:0.942
+2021-06-04 16:54:56,080 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/wood_level_960-405-1440-765.png : 0.7812
+2021-06-04 16:55:03,394 - INFO - jjypof7xcqzpg6pn | Start working, type:wood | level:6
+2021-06-04 16:55:03,513 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 16:55:04,647 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.7969
+2021-06-04 16:55:05,478 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:16 | n_city:17
+2021-06-04 16:55:24,933 - INFO - jjypof7xcqzpg6pn | Start working, type:wood | level:6
+2021-06-04 16:55:25,045 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 16:55:26,081 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.8750
+2021-06-04 16:55:27,165 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:18 | n_city:15
+2021-06-04 16:55:28,246 - INFO - jjypof7xcqzpg6pn | Click button:(150, 780, 20) | point:(137, 762) | delay:0.813
+2021-06-04 16:55:29,099 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/wood_level_960-405-1440-765.png : 0.9844
+2021-06-04 16:55:30,412 - INFO - jjypof7xcqzpg6pn | Click button:(1200, 700, 40) | point:(1203, 707) | delay:1.045
+2021-06-04 16:55:31,549 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/wood_level_960-405-1440-765.png : 0.9375
+2021-06-04 16:55:34,856 - INFO - jjypof7xcqzpg6pn | Click button:(1200, 515, 60) | point:(1216, 522) | delay:1.186
+2021-06-04 16:56:39,940 - INFO - jjypof7xcqzpg6pn | Start working, type:wood | level:6
+2021-06-04 16:56:40,076 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 16:56:41,120 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.7969
+2021-06-04 16:56:42,113 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:16 | n_city:17
+2021-06-04 16:56:43,374 - INFO - jjypof7xcqzpg6pn | Click button:(155, 945, 40) | point:(129, 941) | delay:0.931
+2021-06-04 16:56:44,800 - INFO - jjypof7xcqzpg6pn | Click button:(150, 780, 20) | point:(131, 768) | delay:1.108
+2021-06-04 16:56:45,750 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/wood_level_960-405-1440-765.png : 0.9844
+2021-06-04 16:56:47,285 - INFO - jjypof7xcqzpg6pn | Click button:(1200, 700, 40) | point:(1187, 732) | delay:1.116
+2021-06-04 16:56:48,340 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/wood_level_960-405-1440-765.png : 0.9375
+2021-06-04 16:56:51,675 - INFO - jjypof7xcqzpg6pn | Click button:(1200, 515, 60) | point:(1240, 488) | delay:1.102
+2021-06-04 16:56:52,778 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/采集按钮_1605-650-1695-740.png : 0.9219
+2021-06-04 16:56:52,779 - WARNING - jjypof7xcqzpg6pn | 点击资源后，未出现 [采集按钮]
+2021-06-04 16:56:52,781 - INFO - jjypof7xcqzpg6pn | Start working, type:stone | level:6
+2021-06-04 16:56:52,853 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 16:56:53,696 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.7969
+2021-06-04 16:56:54,836 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:16 | n_city:17
+2021-06-04 16:56:56,142 - INFO - jjypof7xcqzpg6pn | Click button:(155, 945, 40) | point:(179, 920) | delay:0.937
+2021-06-04 16:56:57,574 - INFO - jjypof7xcqzpg6pn | Click button:(150, 780, 20) | point:(155, 790) | delay:1.004
+2021-06-04 16:56:58,718 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/stone_level_1235-405-1715-765.png : 0.8125
+2021-06-04 16:57:00,187 - INFO - jjypof7xcqzpg6pn | Click button:(1475, 910, 50, 0) | point:(1482, 866) | delay:1.0
+2021-06-04 16:57:01,761 - INFO - jjypof7xcqzpg6pn | Click button:(1475, 700, 40) | point:(1478, 734) | delay:1.154
+2021-06-04 16:57:02,656 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/stone_level_1235-405-1715-765.png : 0.9844
+2021-06-04 16:57:02,657 - WARNING - jjypof7xcqzpg6pn | 未发现矿物(或遇到其他异常情况)
+2021-06-04 16:57:02,659 - INFO - jjypof7xcqzpg6pn | Start working, type:farm | level:6
+2021-06-04 16:57:02,718 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 16:57:03,908 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.8594
+2021-06-04 16:57:04,945 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:16 | n_city:17
+2021-06-04 16:57:06,127 - INFO - jjypof7xcqzpg6pn | Click button:(155, 945, 40) | point:(159, 971) | delay:0.813
+2021-06-04 16:57:07,610 - INFO - jjypof7xcqzpg6pn | Click button:(150, 780, 20) | point:(138, 777) | delay:0.991
+2021-06-04 16:57:08,606 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/farm_level_685-405-1165-765.png : 0.8125
+2021-06-04 16:57:09,761 - INFO - jjypof7xcqzpg6pn | Click button:(925, 910, 50, -5) | point:(941, 875) | delay:0.881
+2021-06-04 16:57:11,263 - INFO - jjypof7xcqzpg6pn | Click button:(925, 700, 40) | point:(922, 724) | delay:1.174
+2021-06-04 16:57:12,213 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/farm_level_685-405-1165-765.png : 0.8281
+2021-06-04 16:57:15,354 - INFO - jjypof7xcqzpg6pn | Click button:(1200, 515, 60) | point:(1248, 522) | delay:0.849
+2021-06-04 16:57:16,417 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/采集按钮_1605-650-1695-740.png : 1.0000
+2021-06-04 16:57:17,887 - INFO - jjypof7xcqzpg6pn | Click button:(1650, 695, 45) | point:(1688, 679) | delay:0.999
+2021-06-04 16:57:19,289 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/创建部队按钮_1905-170-1985-250.png : 0.7031
+2021-06-04 16:57:19,289 - WARNING - jjypof7xcqzpg6pn | 点击采集后，未出现 [创建部队按钮]
+2021-06-04 16:57:19,317 - INFO - jjypof7xcqzpg6pn | 关闭应用
+2021-06-04 17:03:06,181 - INFO - jjypof7xcqzpg6pn | 尝试关闭应用，但应用未启动
+2021-06-04 17:04:57,849 - INFO - jjypof7xcqzpg6pn | 尝试关闭应用，但应用未启动
+2021-06-04 17:06:21,385 - INFO - jjypof7xcqzpg6pn | 尝试关闭应用，但应用未启动
+2021-06-04 17:06:43,606 - INFO - jjypof7xcqzpg6pn | 尝试关闭应用，但应用未启动
+2021-06-04 17:07:20,441 - INFO - jjypof7xcqzpg6pn | 尝试关闭应用，但应用未启动
+2021-06-04 17:08:15,944 - INFO - jjypof7xcqzpg6pn | 尝试关闭应用，但应用未启动
+2021-06-04 17:10:02,299 - INFO - jjypof7xcqzpg6pn | 尝试关闭应用，但应用未启动
+2021-06-04 17:10:55,716 - INFO - jjypof7xcqzpg6pn | 尝试关闭应用，但应用未启动
+2021-06-04 17:11:10,289 - INFO - jjypof7xcqzpg6pn | 尝试关闭应用，但应用未启动
+2021-06-04 17:11:28,183 - INFO - jjypof7xcqzpg6pn | 尝试关闭应用，但应用未启动
+2021-06-04 17:11:50,694 - INFO - jjypof7xcqzpg6pn | 尝试关闭应用，但应用未启动
+2021-06-04 17:12:07,347 - INFO - jjypof7xcqzpg6pn | 尝试关闭应用，但应用未启动
+2021-06-04 17:12:26,607 - INFO - jjypof7xcqzpg6pn | 尝试关闭应用，但应用未启动
+2021-06-04 17:12:50,515 - INFO - jjypof7xcqzpg6pn | 尝试关闭应用，但应用未启动
+2021-06-04 17:14:38,918 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:14:39,171 - INFO - jjypof7xcqzpg6pn | 启动应用
+2021-06-04 17:14:51,357 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.7344
+2021-06-04 17:14:53,676 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:13 | n_city:20
+2021-06-04 17:14:55,199 - INFO - jjypof7xcqzpg6pn | Click button:(155, 945, 40) | point:(156, 950) | delay:0.903
+2021-06-04 17:14:56,616 - INFO - jjypof7xcqzpg6pn | Click button:(150, 780, 20) | point:(169, 800) | delay:0.891
+2021-06-04 17:14:57,552 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/gold_level_1510-405-1990-765.png : 0.7812
+2021-06-04 17:14:59,115 - INFO - jjypof7xcqzpg6pn | Click button:(1750, 910, 50, 0) | point:(1768, 921) | delay:1.044
+2021-06-04 17:15:00,753 - INFO - jjypof7xcqzpg6pn | Click button:(1750, 700, 40) | point:(1774, 731) | delay:1.111
+2021-06-04 17:15:01,602 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/gold_level_1510-405-1990-765.png : 0.8750
+2021-06-04 17:15:04,610 - INFO - jjypof7xcqzpg6pn | Click button:(1200, 515, 60) | point:(1222, 457) | delay:1.008
+2021-06-04 17:15:05,503 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/采集按钮_1605-650-1695-740.png : 1.0000
+2021-06-04 17:15:06,941 - INFO - jjypof7xcqzpg6pn | Click button:(1650, 695, 45) | point:(1662, 679) | delay:1.069
+2021-06-04 17:15:08,309 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/创建部队按钮_1905-170-1985-250.png : 1.0000
+2021-06-04 17:15:09,748 - INFO - jjypof7xcqzpg6pn | Click button:(1945, 210, 40) | point:(1914, 249) | delay:1.17
+2021-06-04 17:15:10,742 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/行军按钮_1575-860-1665-950.png : 1.0000
+2021-06-04 17:15:11,962 - INFO - jjypof7xcqzpg6pn | Click button:(1620, 905, 45) | point:(1589, 886) | delay:0.952
+2021-06-04 17:15:11,964 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:15:12,146 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 17:15:13,244 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.8438
+2021-06-04 17:15:53,467 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:15:53,543 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 17:15:54,436 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.8438
+2021-06-04 17:15:55,267 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:18 | n_city:15
+2021-06-04 17:16:00,922 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:16:01,044 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 17:16:01,933 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.7031
+2021-06-04 17:16:11,592 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:16:11,721 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 17:16:12,801 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.7031
+2021-06-04 17:16:13,781 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:16 | n_city:17
+2021-06-04 17:16:15,170 - INFO - jjypof7xcqzpg6pn | Click button:(155, 945, 40) | point:(169, 976) | delay:0.87
+2021-06-04 17:16:28,455 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:16:28,530 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 17:16:29,360 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.7031
+2021-06-04 17:16:30,439 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:16 | n_city:17
+2021-06-04 17:16:36,659 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:16:36,735 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 17:16:37,618 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.8438
+2021-06-04 17:16:38,609 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:18 | n_city:15
+2021-06-04 17:16:40,057 - INFO - jjypof7xcqzpg6pn | Click button:(150, 780, 20) | point:(136, 789) | delay:0.969
+2021-06-04 17:16:40,915 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/gold_level_1510-405-1990-765.png : 1.0000
+2021-06-04 17:17:46,443 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:17:46,555 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 17:17:47,498 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.8438
+2021-06-04 17:17:48,377 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:18 | n_city:15
+2021-06-04 17:17:49,827 - INFO - jjypof7xcqzpg6pn | Click button:(150, 780, 20) | point:(159, 777) | delay:0.981
+2021-06-04 17:17:50,919 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/gold_level_1510-405-1990-765.png : 1.0000
+2021-06-04 17:17:52,571 - INFO - jjypof7xcqzpg6pn | Click button:(1750, 700, 40) | point:(1761, 734) | delay:1.124
+2021-06-04 17:17:53,443 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/gold_level_1510-405-1990-765.png : 0.7344
+2021-06-04 17:17:56,741 - INFO - jjypof7xcqzpg6pn | Click button:(1200, 515, 60) | point:(1213, 477) | delay:1.06
+2021-06-04 17:17:57,632 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/采集按钮_1605-650-1695-740.png : 1.0000
+2021-06-04 17:17:59,048 - INFO - jjypof7xcqzpg6pn | Click button:(1650, 695, 45) | point:(1610, 678) | delay:1.148
+2021-06-04 17:18:00,457 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/创建部队按钮_1905-170-1985-250.png : 1.0000
+2021-06-04 17:18:01,701 - INFO - jjypof7xcqzpg6pn | Click button:(1945, 210, 40) | point:(1925, 207) | delay:0.825
+2021-06-04 17:18:02,595 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/行军按钮_1575-860-1665-950.png : 1.0000
+2021-06-04 17:18:04,131 - INFO - jjypof7xcqzpg6pn | Click button:(1620, 905, 45) | point:(1634, 873) | delay:1.067
+2021-06-04 17:18:04,133 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:18:04,267 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 17:18:05,352 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.8438
+2021-06-04 17:18:06,192 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:18 | n_city:15
+2021-06-04 17:18:07,468 - INFO - jjypof7xcqzpg6pn | Click button:(150, 780, 20) | point:(134, 780) | delay:1.006
+2021-06-04 17:18:08,469 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/gold_level_1510-405-1990-765.png : 1.0000
+2021-06-04 17:18:09,840 - INFO - jjypof7xcqzpg6pn | Click button:(1750, 700, 40) | point:(1723, 699) | delay:1.002
+2021-06-04 17:18:10,689 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/gold_level_1510-405-1990-765.png : 0.7188
+2021-06-04 17:18:13,373 - INFO - jjypof7xcqzpg6pn | Click button:(1200, 515, 60) | point:(1175, 492) | delay:0.927
+2021-06-04 17:18:14,259 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/采集按钮_1605-650-1695-740.png : 1.0000
+2021-06-04 17:18:15,475 - INFO - jjypof7xcqzpg6pn | Click button:(1650, 695, 45) | point:(1674, 685) | delay:0.947
+2021-06-04 17:18:16,818 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/创建部队按钮_1905-170-1985-250.png : 1.0000
+2021-06-04 17:18:18,265 - INFO - jjypof7xcqzpg6pn | Click button:(1945, 210, 40) | point:(1966, 249) | delay:1.178
+2021-06-04 17:18:19,361 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/行军按钮_1575-860-1665-950.png : 1.0000
+2021-06-04 17:18:20,790 - INFO - jjypof7xcqzpg6pn | Click button:(1620, 905, 45) | point:(1655, 920) | delay:0.961
+2021-06-04 17:18:20,792 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:18:20,919 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 17:18:21,862 - INFO - jjypof7xcqzpg6pn | Cal similar with /home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png : 0.8438
+2021-06-04 17:18:22,699 - INFO - jjypof7xcqzpg6pn | 判断是否在城内, n_map:18 | n_city:15
+2021-06-04 17:18:24,346 - INFO - jjypof7xcqzpg6pn | Click button:(150, 780, 20) | point:(130, 794) | delay:1.128
+2021-06-04 17:18:25,402 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/gold_level_1510-405-1990-765.png : 1.0000
+2021-06-04 17:18:26,803 - INFO - jjypof7xcqzpg6pn | Click button:(1750, 700, 40) | point:(1771, 737) | delay:1.132
+2021-06-04 17:18:27,946 - INFO - jjypof7xcqzpg6pn | Cal similar with pics/gold_level_1510-405-1990-765.png : 0.7188
+2021-06-04 17:19:06,136 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:19:06,787 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 17:20:38,415 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:20:39,008 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 17:20:52,607 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:20:52,742 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 17:21:03,742 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:21:03,873 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 17:21:31,186 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:21:31,261 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 17:22:57,380 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:22:57,497 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 17:23:18,415 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:23:18,499 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 17:23:26,535 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:23:26,659 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 17:24:02,214 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:24:02,345 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 17:24:36,250 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:24:36,382 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动
+2021-06-04 17:30:47,503 - INFO - jjypof7xcqzpg6pn | Start working, type:gold | level:6
+2021-06-04 17:30:47,578 - INFO - jjypof7xcqzpg6pn | 尝试打开应用，但应用已启动

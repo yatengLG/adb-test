@@ -8,6 +8,8 @@ import logging
 import subprocess
 import time
 import random
+import datetime
+
 
 def create_logger(device_id):
     logger = logging.getLogger('{}_logger'.format(device_id))
@@ -36,13 +38,14 @@ def open_app(device_id, logger, app = "com.lilithgames.rok.offical.cn", app_acti
                 'adb -s {} shell am start -n {}/{}'.format(device_id, app, app_activity), shell=True)
             sub.wait(10)
             if sub.returncode == 0:
-                logger.info("启动应用")
+                logger.info("{} | 启动应用".format(device_id))
+                print("{} | {} | 启动应用".format(datetime.datetime.now().time(), device_id))
                 time.sleep(10)
                 return True
             else:
                 return -1
         else:
-            logger.info("尝试打开应用，但应用已启动")
+            logger.info("{} | 尝试打开应用，但应用已启动".format(device_id))
             return True
     except:
         return -1
@@ -52,15 +55,12 @@ def close_app(device_id, logger, app = "com.lilithgames.rok.offical.cn"):
         sub = subprocess.Popen('adb -s {} shell pidof {}'.format(device_id, app), shell=True, stdout=subprocess.PIPE, universal_newlines=True)
         r = sub.stdout.read()
         if r == '':
-            logger.info("尝试关闭应用，但应用未启动")
+            logger.info("{} | 尝试关闭应用，但应用未启动".format(device_id))
             return True
         else:
             sub = subprocess.Popen('adb shell am force-stop {}'.format(app), shell=True)
-            if sub.returncode == 0:
-                logger.info("关闭应用")
-                return True
-            else:
-                return -1
+            logger.info("{} | 关闭应用".format(device_id))
+            return True
     except:
         return -1
 
@@ -78,7 +78,7 @@ def cal_similar(device_id, logger, image:str, area=None):
     screen = screen[area[1]:area[3], area[0]:area[2]]
     cv2.imwrite('aaa.png', screen)
     c = similar.calculate(screen, cv2.imread(image))
-    logger.info("Cal similar with {} : {:.4f}".format(image, c))
+    logger.info("{} | Cal similar with {} : {:.4f}".format(device_id, image, c))
     return c
 
 def in_city(device_id, logger):
@@ -96,7 +96,7 @@ def in_city(device_id, logger):
     city_hash = similar.pHash(home_city_img)
     n_map = similar.cmpHash(home_hash, map_hash)
     n_city = similar.cmpHash(home_hash, city_hash)
-    logger.info("判断是否在城内, n_map:{} | n_city:{}".format(n_map, n_city))
+    logger.info("{} | 判断是否在城内, n_map:{} | n_city:{}".format(device_id, n_map, n_city))
     if n_map > n_city:  # 当前图标为city图标，在野外，可挖矿
         return False
     else:
@@ -108,21 +108,33 @@ def click(device_id, logger, button, delay=(800, 1200)):
     delay = random.randint(delay[0], delay[1])/1000
     r = device_ops.Tap(device_id, point)
     time.sleep(delay)
-    logger.info("Click button:{} | point:{} | delay:{}".format(button, point, delay))
+    logger.info("{} | Click button:{} | point:{} | delay:{}".format(device_id, button, point, delay))
     return True
 
 def work(device_id, logger, type='farm', level=6):
-    logger.info("Start working, type:{} | level:{}".format(type, level))
+    logger.info("{} | Start working, type:{} | level:{}".format(device_id, type, level))
     # 自动亮屏
     if not device_info.ScreenisLight(device_id):
+        print("{} | {} | 亮屏".format(datetime.datetime.now().time(), device_id))
         device_ops.ClickPower(device_id)
     # 打开app
     open_app(device_id, logger)
+
+    # 人机验证
+    yanzheng_pic = '/home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png'
+    if cal_similar(device_id, logger, yanzheng_pic) > 0.95:
+        logger.warn('{} | [人机检测]'.format(device_id))
+        print("{} | {} | [人机检测]".format(datetime.datetime.now().time(), device_id))
+        return 9
+
     # 判断是否在城内
     if in_city(device_id, logger):  # 在城内
+        print("{} | {} | 城内， 点击按钮到城外".format(datetime.datetime.now().time(), device_id))
         home_button = (155, 945, 40)
         click(device_id, logger, home_button)
+
     # 点击搜索按钮
+    print("{} | {} | 点击[放大镜按钮]".format(datetime.datetime.now().time(), device_id))
     search_button = (150, 780, 20)
     click(device_id, logger, search_button)
 
@@ -147,56 +159,61 @@ def work(device_id, logger, type='farm', level=6):
         logger.error('输入矿物类型不支持 type: {}'.format(type))
         raise ValueError("input type == {}".format(type))
 
-    yanzheng_pic = '/home/super/PycharmProjects/untitled1/pics/验证_1400-440-1710-620.png'
-    if cal_similar(device_id, logger, yanzheng_pic) > 0.95:
-        logger.error('挂机检查')
-        return 9
-
     # 判断矿物选择页面是否正确，不是当前所采集矿，则点击进行选择
     if cal_similar(device_id, logger, type_level_pic) < 0.95:
+        print("{} | {} | 点击[矿物选择按钮]".format(datetime.datetime.now().time(), device_id))
         click(device_id, logger, type_button)
 
+    print("{} | {} | 点击[矿物搜索按钮]".format(datetime.datetime.now().time(), device_id))
     search_button = (type_button[0], 700, 40)
     click(device_id, logger, search_button, delay=(1000,1200))
 
     # 点击搜索后，查看是否跳转, 存在 无矿情况，导致没有跳转
     if cal_similar(device_id, logger, type_level_pic) > 0.95:
-        logger.error('没有资源或其他情况，导致点击搜索后没有跳转')
+        logger.warn('{} | 未发现矿物(或遇到其他异常情况)'.format(device_id))
+        print("{} | {} | 未发现矿物(或遇到其他异常情况)".format(datetime.datetime.now().time(), device_id))
         return 1  # 无矿物，没跳转
     else:
 
         # 点击搜索后，等待跳转
         time.sleep(random.randint(1400, 1800) / 1000)
         # 点击屏幕中央矿物图标
+        print("{} | {} | 点击[矿物图标]".format(datetime.datetime.now().time(), device_id))
         center_area = (1200, 515, 60)
         click(device_id, logger, center_area)
 
         # 判断并点击采集按钮
         caiji_pic = 'pics/采集按钮_1605-650-1695-740.png'
         if cal_similar(device_id, logger, caiji_pic) < 0.95:
-            logger.error('点击资源后，未出现 [采集按钮]')
+            logger.warn('{} | 点击资源后，未出现 [采集按钮]'.format(device_id))
+            print("{} | {} | 点击[矿物图标]后未发现 [采集按钮]".format(datetime.datetime.now().time(), device_id))
             return 2  # 矿物正在被采集
 
         else:
+            print("{} | {} | 点击[采集按钮]".format(datetime.datetime.now().time(), device_id))
             caiji_button = (1650, 695, 45)
             click(device_id, logger, caiji_button)
 
             # 创建部队
             chuangjianbudui_pic = 'pics/创建部队按钮_1905-170-1985-250.png'
             if cal_similar(device_id, logger, chuangjianbudui_pic) < 0.95:
-                logger.error('点击采集后，未出现 [创建部队按钮]')
+                logger.warn('{} | 点击采集后，未出现 [创建部队按钮]'.format(device_id))
+                print("{} | {} | 点击[采集按钮]后，未发现[创建部队按钮]".format(datetime.datetime.now().time(), device_id))
                 return 3  # 队伍以用完
 
             else:
+                print("{} | {} | 点击[创建部队按钮]".format(datetime.datetime.now().time(), device_id))
                 chuangjianbudui_button = (1945, 210, 40)
                 click(device_id, logger, chuangjianbudui_button)
 
                 # 行军
                 xingjun_pic = 'pics/行军按钮_1575-860-1665-950.png'
                 if cal_similar(device_id, logger, xingjun_pic) < 0.95:
-                    logger.warning('点击创建部队后，未出现 [行军按钮]')
+                    logger.warn('{} | 点击创建部队后，未出现 [行军按钮]'.format(device_id))
+                    print("{} | {} | 点击[创建部队按钮]后，未发现[行军按钮]".format(datetime.datetime.now().time(), device_id))
                     return 4  #
                 else:
+                    print("{} | {} | 点击[行军按钮]".format(datetime.datetime.now().time(), device_id))
                     xingjun_button = (1620, 905, 45)
                     click(device_id, logger, xingjun_button)
                     return 0

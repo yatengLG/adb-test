@@ -1,0 +1,1 @@
+{"cd": 21, "level": 6, "types": ["stone", "wood", "farm", "gold"]}

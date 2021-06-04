@@ -17,9 +17,8 @@ def getDevicesId():
                 continue
             else:
                 ids.append(device.split('\t')[0])
-        return ids
-    else:
-        return -1
+    return ids
+
 
 
 def getScreenSize(device_id):
